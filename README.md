@@ -41,7 +41,7 @@ With the Fitcoin app, a Fitness Club can add new members. For active members, yo
 1. Login as a normal user, rather than root.
 2. Do not su to root.
 3. When installing prerequisites, use curl, then unzip using sudo.
-4. Run prereqs-ubuntu.sh as a normal user. It may prompt for root password as some of it's actions are required to be run as root.
+4. Run `prereqs-ubuntu.sh` as a normal user. It may prompt for root password as some of it's actions are required to be run as root.
 5. Do not use npm with sudo or su to root to use it.
 6. Avoid installing node globally as root.
 
